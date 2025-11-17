@@ -1,8 +1,8 @@
 [
   {
-    "id": "6d95fal7c7e40bea",
-    "username": "dpmods",
-    "password": "dpmods",
+    "id": "e9c13cb2ef2846e8",
+    "username": "agam1",
+    "password": "agam1",
     "expiresAt": "2025-12-31",
     "allowOffline": true
   },
@@ -14,10 +14,3 @@
     "allowOffline": false
   }
 ]
-  {
-    "id": "e9c13cb2ef2846e8",
-    "username": "agam",
-    "password": "agam",
-    "expiresAt": "2025-12-31",
-    "allowOffline": true
-  },
