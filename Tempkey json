@@ -5,7 +5,14 @@
     "password": "dpmods",
     "expiresAt": "2025-12-31",
     "allowOffline": true
-  }
+  },
+  {
+    "id": "e9c13cb2ef2846e8",
+    "username": "agamds28",
+    "password": "agamds28",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
   {
     "id": "android_device_id_2",
     "username": "user2",
