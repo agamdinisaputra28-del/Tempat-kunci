@@ -14,3 +14,10 @@
     "allowOffline": false
   }
 ]
+  {
+    "id": "e9c13cb2ef2846e8",
+    "username": "agam",
+    "password": "agam",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
